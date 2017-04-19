@@ -1,0 +1,35 @@
+.cancha{
+  background-color: #6c8c5c;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+  width: 620px;
+  height: 370px;
+  position: relative;
+  box-shadow: 5px 5px 25px #888888;
+}
+.canchaInt{
+  position: absolute;
+  margin: 10px;
+  border: 1px solid white;
+  width: 600px;
+  height: 350px;
+}
+.porteria{
+  position: absolute;
+  width: 100px;
+  height: 150px;
+}
+.izquierda{
+  left:0;
+  top: 25%;
+  border-right: 1px solid white;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+
+.derecha{
+  right: 0;
+  top: 25%;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+}
